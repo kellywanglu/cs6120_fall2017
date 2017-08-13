@@ -13,7 +13,7 @@
 
 _______
 ## Important Announcement
-[1/1/2017] We will have a quiz with 22 simple questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the first class (9/11/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
+[9/1/2017] We will have a quiz with 22 simple questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the first class (9/11/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
 ## Course Description
@@ -63,7 +63,7 @@ _______
 
 #### Sep 25
 
-* Coure project proposal due
+* Course project proposal due
 
 
 #### Oct 2
