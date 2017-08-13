@@ -23,7 +23,7 @@ _______
 * 
 
 #### Textbooks and Reference
-* Main Textbooks
+* Main Textbook:
  * Dan Jurafsky and James H. Martin, "Speech and Language Processing, 2nd Edition", Prentice Hall, 2000.
  * Third edition draft is available at [web.stanford.edu/~jurafsky/slp3/](http://web.stanford.edu/~jurafsky/slp3/).
  
