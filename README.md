@@ -13,14 +13,11 @@
 
 _______
 ## Important Announcement
-[9/1/2017] We will have a quiz with 22 simple questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the first class (9/11/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6140. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
+[9/1/2017] We will have a quiz with 24 **simple** questions, 20 of them as True or False questions (relevant to probability, statistics, and linear algebra) in the first class (9/11/2017). This quiz will be graded, but will not be counted in your final score if you’re enrolled in CS6120/CS4120. The purpose of this quiz is to indicate the expected background of students. 80% of the questions should be easy to answer. If you find yourself struggling with this quiz, it’s possible that you need to catch up on the background or it may be preferable to take one or two preliminary courses. For students previously do not take any algorithm course (CS 5800 or CS 7800, see Prerequisites), an 80% or above is required to enroll in this course.
 
 _______
 ## Course Description
-
-#### Content
-* 
-* 
+This course aims to introduce fundamental tasks in natural language processing, and its recent advances based on machine learning algorithms (e.g., neural networks) and applications for interdisciplinary subjects (e.g., computational social science).
 
 #### Textbooks and Reference
 * Main Textbook:
@@ -30,16 +27,17 @@ _______
 * Other Reference: 
  * Chris Manning and Hinrich Schütze, "Foundations of Statistical Natural Language Processing", MIT Press, 1999
  
-* Since natural language processing problems are driven by machine learning techniques nowadays, we also encourage you to read machine learning textbooks:
+* Since many natural language processing problems are driven by machine learning techniques nowadays, we also highly encourage you to read machine learning textbooks:
  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
  * Tom Mitchell, "Machine Learning", McGraw Hill, 1997.
  
 #### Prerequisites
-This course is designed for graduate students majoring in computer science, linguistics, and other related areas. Students who take this course are expected to be able to write code in some programming languages (e.g., Python, Java, C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, statistics, and linear algebra.
+This course is designed for graduate students majoring in computer science, linguistics, and other related areas. Students who take this course are expected to be able to write code in some programming languages (e.g., Python, Java, or C/C++) proficiently, and finish courses in algorithms (CS 5800 or CS 7800), multivariable calculus, probability, and statistics. Linear algebra is optional, but highly recommended.
 
 _______
 ## Grading
-Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 10 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. 
+Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 20 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. Each 24 hours or part thereof that a submission is late uses up one full late day. Late days are not applicable to final presentation. Each group member is charged with the same number of late days, if any, for their submission.
+
 
 Grades will be determined based on three assignments, ten in-class tests, one course project, one open-book exam, and participation:
 
@@ -52,50 +50,51 @@ Grades will be determined based on three assignments, ten in-class tests, one co
 _______
 ## Schedule
 #### Sep 11
-* Topic: introduction, language models
+* Topic: Introduction, Language Models
 * Slides: [[Download]](slides_cs6120_fa17/cs6120_lec1.pdf) [[6pp version]](slides_cs6120_fa17/cs6120_lec1_6pp.pdf)
 * Reading: 
 * TODO: start thinking about projects and looking for teammates
 
 #### Sep 18
-
+* Topic: Part-of-Speech Tagging, Sequence Labeling, and Hidden Markov Models
 * TODO: Assignment 1 is released.
 
 #### Sep 25
-
+* Topic: Text Categorization, Machine Learning Basics: Naive Bayes, Log-linear Models, Neural Networks, Sequence Models, Word Sense Disambiguation, Named Entity Recognition, Chunking
 
 
 
 #### Oct 2
-
+* Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing, Statistical Parsing, Neural Parsing
 * Course project proposal due
 
 
 #### Oct 9 (NO CLASS: Columbus Day)
-
 * TODO: Assignment 2 is released.
 * Assignment 1 is due.
 
-#### Oct 16
 
+#### Oct 16
+* Topic: Vector-Space Lexical Semantics, Semantic Role Labeling, Semantic Parsing, Combining Logical and Distributional Semantics
 
 #### Oct 23
-
+* Topic: Machine Translation, Sequence-to-sequence Model, Text Summarization
 * Coure project progress report due
 
 #### Oct 30
-
+* Topic: Information Extraction, Question Answering
 * TODO: Assignment 3 is released.
 * Assignment 2 is due.
 
 #### Nov 6
-
+* Topic: Discourse Coherence, Coreference resolution
 
 #### Nov 13
+* Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
 
 
 #### Nov 20
-
+* Topic: Dialog Systems and Chatbots, Advanced Dialog Systems
 * Assignment 3 is due.
 
 #### Nov 27
@@ -105,6 +104,10 @@ _______
 #### Dec 4
 * Topic: Exam
 * Project final report due on Dec 11
+
+
+_______
+## Course Project
 
 
 
