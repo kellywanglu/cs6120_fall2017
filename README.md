@@ -63,11 +63,12 @@ _______
 
 #### Sep 25
 
-* Course project proposal due
+
 
 
 #### Oct 2
 
+* Course project proposal due
 
 
 #### Oct 9 (NO CLASS: Columbus Day)
