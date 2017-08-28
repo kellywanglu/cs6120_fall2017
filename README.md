@@ -2,11 +2,11 @@
 
 **Time and Location:** Mondays from 6:00 pm to 9:00 pm in Behrakis Health Sciences Cntr 315
 
-**Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 448 WVH
+**Instructor**: [Lu Wang](http://www.ccs.neu.edu/home/luwang/), Office 258 WVH
 
 **Staff and Office Hours**: 
 
-* Prof. Lu Wang, Mondays from 4:30pm to 5:30pm, or by appointment, 448 WVH
+* Prof. Lu Wang, Mondays from 4:30pm to 5:30pm, or by appointment, 258 WVH
 * TBD (TA, email: TBD), TBD
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/fall2017/cs6120/home), sign up at [piazza.com/northeastern/fall2017/cs6120](http://piazza.com/northeastern/fall2017/cs6120)
