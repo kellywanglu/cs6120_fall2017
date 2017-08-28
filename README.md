@@ -36,13 +36,12 @@ This course is designed for graduate students majoring in computer science, ling
 
 _______
 ## Grading
-Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Hard copies are submitted in class. Assignment or report turned in late will be charged 20 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. Each 24 hours or part thereof that a submission is late uses up one full late day. Late days are not applicable to final presentation. Each group member is charged with the same number of late days, if any, for their submission.
-
+Each assignment or report, both electronic copy and hard copy, is due at the beginning of class on the corresponding due date. Blackboard is used for electronic submission. Hard copies are submitted in class. Assignment or report turned in late will be charged 20 points (out of 100 points) off for each late day (i.e. 24 hours). Each student has a budget of 5 days throughout the semester before a late penalty is applied. You may want to use it wisely, e.g. save for emergencies. Each 24 hours or part thereof that a submission is late uses up one full late day. Late days are not applicable to final presentation. Each group member is charged with the same number of late days, if any, for their submission.
 
 Grades will be determined based on three assignments, ten in-class tests, one course project, one open-book exam, and participation:
 
 * Assignments (30%): three assignments, each of 10%
-* Quiz (9%): nine quick in-class tests, each of 1%
+* Quiz (9%): nine quick in-class tests (taken place at the beginning of each lecture), each of 1%
 * Project (23%): team of 2 to 3 students, proposal (3%), reports (5%+10%), final presentation (5%, with 2% as bonus if selected as best project by peer students, and 1% as bonus for runner-up)
 * Exam (35%): open-book
 * Participation (3%): classes, Piazza
@@ -61,7 +60,6 @@ _______
 
 #### Sep 25
 * Topic: Text Categorization, Machine Learning Basics: Naive Bayes, Log-linear Models, Neural Networks, Sequence Models, Word Sense Disambiguation, Named Entity Recognition, Chunking
-
 
 
 #### Oct 2
