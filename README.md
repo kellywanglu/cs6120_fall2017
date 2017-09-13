@@ -7,7 +7,8 @@
 **Staff and Office Hours**: 
 
 * Prof. Lu Wang, Mondays from 4:30pm to 5:30pm, or by appointment, 258 WVH
-* TBD (TA, email: TBD), TBD
+* Tirthraj Maheshkumar Parmar (email: parmar.t@husky.neu.edu), Tuesdays from 1pm to 2pm, 462 WVH
+* Vishruth Krishna Prasad (email: krishnaprasad.v@husky.neu.edu), Wednesdays from 3pm to 4pm, 462 WVH
 
 **Discussion Forum**: [Piazza](http://piazza.com/northeastern/fall2017/cs6120/home), sign up at [piazza.com/northeastern/fall2017/cs6120](http://piazza.com/northeastern/fall2017/cs6120)
 
@@ -50,7 +51,7 @@ _______
 ## Schedule
 #### Sep 11
 * Topic: Introduction, Language Models
-* Slides: [[Download]](slides_cs6120_fa17/cs6120_lec1.pdf) [[6pp version]](slides_cs6120_fa17/cs6120_lec1_6pp.pdf)
+* Slides: [[intro]](slides_cs6120_fa17/introduction.pdf) [[6pp version]](slides_cs6120_fa17/introduction_6pp.pdf) [[Language Model]](slides_cs6120_fa17/lm.pdf) [[6pp version]](slides_cs6120_fa17/lm_6pp.pdf)
 * Reading: 
 * TODO: start thinking about projects and looking for teammates
 
