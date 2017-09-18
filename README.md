@@ -52,15 +52,17 @@ _______
 #### Sep 11
 * Topic: Introduction, Language Models
 * Slides: [[intro]](slides_cs6120_fa17/introduction.pdf) [[6pp version]](slides_cs6120_fa17/introduction_6pp.pdf) [[Language Model]](slides_cs6120_fa17/lm.pdf) [[6pp version]](slides_cs6120_fa17/lm_6pp.pdf)
-* Reading: 
+* Reading: Ch1, Ch4.1-4.9 
 * TODO: start thinking about projects and looking for teammates
 
 #### Sep 18
-* Topic: Part-of-Speech Tagging, Sequence Labeling, and Hidden Markov Models
+* Topic: Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
+* Slides: [[NB]](slides_cs6120_fa17/nb.pdf) [[6pp version]](slides_cs6120_fa17/nb_6pp.pdf) [[POS]](slides_cs6120_fa17/postag.pdf) [[6pp version]](slides_cs6120_fa17/postag_6pp.pdf)
+* Reading: Ch5&6, [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf)
 * TODO: Assignment 1 is released.
 
 #### Sep 25
-* Topic: Text Categorization, Machine Learning Basics: Naive Bayes, Log-linear Models, Neural Networks, Sequence Models, Word Sense Disambiguation, Named Entity Recognition, Chunking
+* Topic: Word Sense Disambiguation, Machine Learning Basics: Logistic Regression, Log-linear Models, Neural Networks, MEMM, CRF, Named Entity Recognition
 
 
 #### Oct 2
