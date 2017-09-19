@@ -59,7 +59,7 @@ _______
 * Topic: Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
 * Slides: [[NB]](slides_cs6120_fa17/nb.pdf) [[6pp version]](slides_cs6120_fa17/nb_6pp.pdf) [[POS]](slides_cs6120_fa17/postag.pdf) [[6pp version]](slides_cs6120_fa17/postag_6pp.pdf)
 * Reading: Ch5&6, [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf)
-* TODO: Assignment 1 is released. [A1](material_cs6120_fa17/a1.pdf) [A1 datasets](material_cs6120_fa17/a1_datasets.zip)
+* TODO: Assignment 1 is released. [[A1]](material_cs6120_fa17/a1.pdf) [[A1 datasets]](material_cs6120_fa17/a1_datasets.zip)
 
 #### Sep 25
 * Topic: Word Sense Disambiguation, Machine Learning Basics: Logistic Regression, Log-linear Models, Neural Networks, MEMM, CRF, Named Entity Recognition
