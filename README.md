@@ -58,16 +58,22 @@ _______
 #### Sep 18
 * Topic: Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
 * Slides: [[NB]](slides_cs6120_fa17/nb.pdf) [[6pp version]](slides_cs6120_fa17/nb_6pp.pdf) [[POS]](slides_cs6120_fa17/postag.pdf) [[6pp version]](slides_cs6120_fa17/postag_6pp.pdf)
-* Reading: Ch5&6, [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf)
+* Reading: Ch5-6, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 * TODO: Assignment 1 is released. [[A1]](material_cs6120_fa17/a1.pdf) [[A1 datasets]](material_cs6120_fa17/a1_datasets.zip)
 
 #### Sep 25
-* Topic: Word Sense Disambiguation, Machine Learning Basics: Logistic Regression, Log-linear Models, Neural Networks, MEMM, CRF, Named Entity Recognition
+* Topic: HMM cont'd, Word Sense Disambiguation
+* Slides: [[WSD]](slides_cs6120_fa17/wsd.pdf) [[6pp version]](slides_cs6120_fa17/wsd_6pp.pdf)
+* Reading: Ch19-20
+
 
 
 #### Oct 2
-* Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing, Statistical Parsing, Neural Parsing
+* Topic: Machine Learning Basics (Logistic Regression, Neural Networks, MEMM), Formal Grammars of English, Syntactic Parsing, Statistical Parsing, Dependency Parsing
+* Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing]](slides_cs6120_fa17/parsing.pdf) [[6pp version]](slides_cs6120_fa17/parsing_6pp.pdf)
+* Reading: Ch12-14
 * Course project proposal due
+
 
 
 #### Oct 9 (NO CLASS: Columbus Day)
