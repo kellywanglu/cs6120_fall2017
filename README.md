@@ -58,7 +58,7 @@ _______
 #### Sep 18
 * Topic: Text Categorization, Naive Bayes, Part-of-Speech Tagging, Sequence Labeling, Hidden Markov Models
 * Slides: [[NB]](slides_cs6120_fa17/nb.pdf) [[6pp version]](slides_cs6120_fa17/nb_6pp.pdf) [[POS]](slides_cs6120_fa17/postag.pdf) [[6pp version]](slides_cs6120_fa17/postag_6pp.pdf)
-* Reading: Ch5-6, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
+* Reading: Ch5, Ch6.1-6.5, and [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf) from 3rd edition
 * TODO: Assignment 1 is released. [[A1]](material_cs6120_fa17/a1.pdf) [[A1 datasets]](material_cs6120_fa17/a1_datasets.zip)
 
 #### Sep 25
@@ -71,7 +71,7 @@ _______
 #### Oct 2
 * Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing
 * Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing Part1]](slides_cs6120_fa17/parsing_part1.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part1_6pp.pdf)
-* Reading: Ch12.1-12.5, Ch13.1-13.4.1
+* Reading: Ch6.6, Ch12.1-12.5, Ch13.1-13.4.1
 * Course project proposal due
 
 
