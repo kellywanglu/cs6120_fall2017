@@ -26,7 +26,7 @@ This course aims to introduce fundamental tasks in natural language processing, 
  * Third edition draft is available at [web.stanford.edu/~jurafsky/slp3/](http://web.stanford.edu/~jurafsky/slp3/).
  
 * Other Reference: 
- * Chris Manning and Hinrich Schütze, "Foundations of Statistical Natural Language Processing", MIT Press, 1999
+ * Chris Manning and Hinrich Schutze, "Foundations of Statistical Natural Language Processing", MIT Press, 1999
  
 * Since many natural language processing problems are driven by machine learning techniques nowadays, we also highly encourage you to read machine learning textbooks:
  * Christopher M. Bishop, "Pattern Recognition and Machine Learning", Springer, 2006.
@@ -69,9 +69,9 @@ _______
 
 
 #### Oct 2
-* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing, Statistical Parsing
+* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing
 * Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing Part1]](slides_cs6120_fa17/parsing_part1.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part1_6pp.pdf)
-* Reading: Ch12-14
+* Reading: Ch12.1-12.5, Ch13.1-13.4.1
 * Course project proposal due
 
 
