@@ -62,15 +62,15 @@ _______
 * TODO: Assignment 1 is released. [[A1]](material_cs6120_fa17/a1.pdf) [[A1 datasets]](material_cs6120_fa17/a1_datasets.zip)
 
 #### Sep 25
-* Topic: HMM cont'd, Word Sense Disambiguation
+* Topic: Word Sense Disambiguation
 * Slides: [[WSD]](slides_cs6120_fa17/wsd.pdf) [[6pp version]](slides_cs6120_fa17/wsd_6pp.pdf)
 * Reading: Ch19-20
 
 
 
 #### Oct 2
-* Topic: Machine Learning Basics (Logistic Regression, Neural Networks, MEMM), Formal Grammars of English, Syntactic Parsing, Statistical Parsing, Dependency Parsing
-* Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing]](slides_cs6120_fa17/parsing.pdf) [[6pp version]](slides_cs6120_fa17/parsing_6pp.pdf)
+* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing, Statistical Parsing
+* Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing Part1]](slides_cs6120_fa17/parsing_part1.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part1_6pp.pdf)
 * Reading: Ch12-14
 * Course project proposal due
 
@@ -82,7 +82,9 @@ _______
 
 
 #### Oct 16
-* Topic: Vector-Space Lexical Semantics, Semantic Role Labeling, Semantic Parsing, Combining Logical and Distributional Semantics
+* Topic: Parsing cont'd, Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
+* Slides: [[Parsing Part2]](slides_cs6120_fa17/parsing_part2.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part2_6pp.pdf) [[Semantics Part1]](slides_cs6120_fa17/semantics_part1.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part1_6pp.pdf)
+
 
 #### Oct 23
 * Topic: Machine Translation, Sequence-to-sequence Model, Text Summarization
