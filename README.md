@@ -77,7 +77,7 @@ _______
 
 
 #### Oct 9 (NO CLASS: Columbus Day)
-* TODO: Assignment 2 is released.
+* TODO: Assignment 2 is released. [[A2]](material_cs6120_fa17/a2.pdf) [[A2 datasets]](material_cs6120_fa17/hw2-sa-ds.zip)
 * Assignment 1 is due.
 
 
