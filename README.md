@@ -69,8 +69,8 @@ _______
 
 
 #### Oct 2
-* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks), Formal Grammars of English, Syntactic Parsing
-* Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) [[Parsing Part1]](slides_cs6120_fa17/parsing_part1.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part1_6pp.pdf)
+* Topic: HMM cont'd, Machine Learning Basics (Maximum Entropy, Feedforward Neural Networks)
+* Slides: [[MLBasics]](slides_cs6120_fa17/mlbasics.pdf) [[6pp version]](slides_cs6120_fa17/mlbasics_6pp.pdf) 
 * Reading: Ch6.6, Ch12.1-12.5, Ch13.1-13.4.1
 * Course project proposal due
 
@@ -82,21 +82,23 @@ _______
 
 
 #### Oct 16
-* Topic: Parsing cont'd, Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
-* Slides: [[Parsing Part2]](slides_cs6120_fa17/parsing_part2.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part2_6pp.pdf) [[Semantics Part1]](slides_cs6120_fa17/semantics_part1.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part1_6pp.pdf)
+* Topic: Formal Grammars of English, Syntactic Parsing, Dependency Parsing
+* Slides: [[Parsing Part1]](slides_cs6120_fa17/parsing_part1.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part1_6pp.pdf) [[Parsing Part2]](slides_cs6120_fa17/parsing_part2.pdf) [[6pp version]](slides_cs6120_fa17/parsing_part2_6pp.pdf) 
 
 
 #### Oct 23
-* Topic: Machine Translation, Sequence-to-sequence Model, Text Summarization
+* Topic: Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
+* Slides: [[Semantics]](slides_cs6120_fa17/semantics.pdf) [[6pp version]](slides_cs6120_fa17/semantics_6pp.pdf)
 * Coure project progress report due
 
 #### Oct 30
-* Topic: Information Extraction, Question Answering
+* Topic: Machine Translation, Sequence-to-sequence Model, Text Summarization, Information Extraction, Question Answering
 * TODO: Assignment 3 is released.
 * Assignment 2 is due.
 
 #### Nov 6
 * Topic: Discourse Coherence, Coreference resolution
+
 
 #### Nov 13
 * Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
