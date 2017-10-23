@@ -89,11 +89,13 @@ _______
 
 #### Oct 23
 * Topic: Vector-Space Lexical Semantics, Semantic Parsing, Combining Logical and Distributional Semantics
-* Slides: [[Semantics]](slides_cs6120_fa17/semantics.pdf) [[6pp version]](slides_cs6120_fa17/semantics_6pp.pdf)
-* Coure project progress report due
+* Slides: [[Semantics Part1]](slides_cs6120_fa17/semantics_part1.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part1_6pp.pdf)
+* Reading: Ch20.7, and [http://web.stanford.edu/~jurafsky/slp3/15.pdf](http://web.stanford.edu/~jurafsky/slp3/15.pdf), [http://web.stanford.edu/~jurafsky/slp3/16.pdf](http://web.stanford.edu/~jurafsky/slp3/16.pdf)
+* Coure project progress report due on Oct 26
 
 #### Oct 30
-* Topic: Machine Translation, Sequence-to-sequence Model, Text Summarization, Information Extraction, Question Answering
+* Topic: Semantics cont'd, Machine Translation, Sequence-to-sequence Model, Text Summarization, Information Extraction, Question Answering
+* Slides: [[Semantics Part2]](slides_cs6120_fa17/semantics_part2.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part2_6pp.pdf)
 * TODO: Assignment 3 is released.
 * Assignment 2 is due.
 
