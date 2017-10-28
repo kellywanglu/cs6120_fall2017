@@ -94,17 +94,17 @@ _______
 * Coure project progress report due on Oct 26
 
 #### Oct 30
-* Topic: Semantics cont'd, Machine Translation, Sequence-to-sequence Model, Text Summarization, Information Extraction, Question Answering
+* Topic: Semantics cont'd, Information Extraction
 * Slides: [[Semantics Part2]](slides_cs6120_fa17/semantics_part2.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part2_6pp.pdf)
 * TODO: Assignment 3 is released.
 * Assignment 2 is due.
 
 #### Nov 6
-* Topic: Discourse Coherence, Coreference resolution
+* Topic: Text Summarization, Sequence-to-sequence Model, Machine Translation, Discourse Coherence, Coreference resolution
 
 
 #### Nov 13
-* Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
+* Topic: Sentiment Analysis, NLP and Social Media, Question Answering
 
 
 #### Nov 20
