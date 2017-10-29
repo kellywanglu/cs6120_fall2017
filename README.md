@@ -95,16 +95,17 @@ _______
 
 #### Oct 30
 * Topic: Semantics cont'd, Information Extraction
-* Slides: [[Semantics Part2]](slides_cs6120_fa17/semantics_part2.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part2_6pp.pdf)
+* Slides: [[Semantics Part2]](slides_cs6120_fa17/semantics_part2.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part2_6pp.pdf) [[Information Extraction]](slides_cs6120_fa17/ie.pdf) [[6pp version]](slides_cs6120_fa17/ie_6pp.pdf)
+* Reading: Ch22.1-22.2
 * TODO: Assignment 3 is released.
 * Assignment 2 is due.
 
 #### Nov 6
-* Topic: Text Summarization, Sequence-to-sequence Model, Machine Translation, Discourse Coherence, Coreference resolution
+* Topic: Question Answering, Text Summarization, Sequence-to-sequence Model, Machine Translation
 
 
 #### Nov 13
-* Topic: Sentiment Analysis, NLP and Social Media, Question Answering
+* Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
 
 
 #### Nov 20
