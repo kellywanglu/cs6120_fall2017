@@ -97,7 +97,7 @@ _______
 * Topic: Semantics cont'd, Information Extraction
 * Slides: [[Semantics Part2]](slides_cs6120_fa17/semantics_part2.pdf) [[6pp version]](slides_cs6120_fa17/semantics_part2_6pp.pdf) [[Information Extraction]](slides_cs6120_fa17/ie.pdf) [[6pp version]](slides_cs6120_fa17/ie_6pp.pdf)
 * Reading: Ch22.1-22.2
-* TODO: Assignment 3 is released.
+* TODO: Assignment 3 is released. [[A3]](material_cs6120_fa17/a3.pdf) 
 * Assignment 2 is due.
 
 #### Nov 6
