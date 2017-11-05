@@ -101,7 +101,10 @@ _______
 * Assignment 2 is due.
 
 #### Nov 6
-* Topic: Question Answering, Text Summarization, Sequence-to-sequence Model, Machine Translation
+* Topic: Question Answering, Text Summarization
+* Slides: [[QA]](slides_cs6120_fa17/qa.pdf) [[6pp version]](slides_cs6120_fa17/qa_6pp.pdf) [[summarization]](slides_cs6120_fa17/summarization.pdf) [[6pp version]](slides_cs6120_fa17/summarization_6pp.pdf) [[Presentation and Exam]](slides_cs6120_fa17/guideline.pdf)
+* Reading: Ch23
+
 
 
 #### Nov 13
