@@ -109,6 +109,8 @@ _______
 
 #### Nov 13
 * Topic: Sentiment Analysis, Opinion Mining, NLP and Social Media
+* Slides: [[sentiment and affective language]](slides_cs6120_fa17/sentiment.pdf) [[6pp version]](slides_cs6120_fa17/sentiment_6pp.pdf) 
+* Reading: [http://web.stanford.edu/~jurafsky/slp3/6.pdf](http://web.stanford.edu/~jurafsky/slp3/6.pdf), [http://web.stanford.edu/~jurafsky/slp3/18.pdf](http://web.stanford.edu/~jurafsky/slp3/18.pdf)
 
 
 #### Nov 20
