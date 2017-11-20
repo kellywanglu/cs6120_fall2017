@@ -114,7 +114,9 @@ _______
 
 
 #### Nov 20
-* Topic: Dialog Systems and Chatbots, Advanced Dialog Systems
+* Topic: Dialog Systems and Chatbots
+* Slides: [[dialogue]](slides_cs6120_fa17/dialogue.pdf) [[6pp version]](slides_cs6120_fa17/dialogue_6pp.pdf) 
+* Reading: Ch24, or [http://web.stanford.edu/~jurafsky/slp3/29.pdf](http://web.stanford.edu/~jurafsky/slp3/29.pdf)
 * Assignment 3 is due.
 
 #### Nov 27
