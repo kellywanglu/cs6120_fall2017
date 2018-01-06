@@ -129,6 +129,26 @@ _______
 
 
 _______
+## Project Reports
+* [Neural Semantic Parsing Natural Language into SQL](reports_cs6120_fa17/1.pdf)
+* [Short Passages Reading Comprehension and Question Answering](reports_cs6120_fa17/2.pdf)
+* [Political Promise Evaluation (PPE)](reports_cs6120_fa17/4.pdf)
+* [Predicting Personality Traits using Tweets](reports_cs6120_fa17/5.pdf)
+* [STORY NEXT 2.0: A TEXT INSIGHTS/VISUALIZATION TOOL](reports_cs6120_fa17/6.pdf)
+* [Android Application for Visual QA](reports_cs6120_fa17/7.pdf)
+* [Novel Summarizer and Keyword Identifier Using Text Rank with Sentence Farm Detection](reports_cs6120_fa17/8.pdf)
+* [Paraphrase Generation](reports_cs6120_fa17/9.pdf)
+* [Hashtag Similarity based on Tweet Text](reports_cs6120_fa17/10.pdf)
+* [Stance Detection for the Fake News Challenge](reports_cs6120_fa17/11.pdf)
+* [Machine Comprehension Using match-LSTM and Answer-Pointer](reports_cs6120_fa17/12.pdf)
+* [Online Abuse Detection](reports_cs6120_fa17/13.pdf)
+* [Plagiarism Detection Using FP-Growth Algorithm](reports_cs6120_fa17/14.pdf)
+* [An Examination of Influential Framing of Controversial Topics on Twitter](reports_cs6120_fa17/15.pdf)
+
+
+
+
+_______
 ## Academic Integrity 
 This course follows the [Northeastern University Academic Integrity Policy](http://www.northeastern.edu/osccr/academic-integrity-policy/). All students in this course are expected to abide by the Academic Integrity Policy. Any work submitted by a student in this course for academic credit should be the student's own work. Collaborations are allowed only if explicitly permitted. Violations of the rules (e.g. cheating, fabrication, plagiarism) will be reported.
 
